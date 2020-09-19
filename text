@@ -12,10 +12,11 @@
 			<h3><i>By Alex</i></h3>
 		</header>
 			<section id="content">
-				<canvas id="Lightning" data-processing-sources="Lightning.pde">
+				<canvas id="robin" data-processing-sources="nam.pde">
 				</canvas>
 		    </section>
 	    <footer>
-		   robin
+		    robin
 	    </footer>
-	<
+	</body>
+</html>
