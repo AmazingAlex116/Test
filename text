@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 	<head>
 		<meta charset="utf-8">
-		<title>Cracked Jar</title>
+		<title>Robin</title>
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="styles.css">
 		<script src="processing.js"></script>
 	</head>
 	<body>
 		<header>
-			<h1>Cracked Jar</h1>
+			<h1>Robin</h1>
 			<h3><i>By Alex</i></h3>
 		</header>
 			<section id="content">
@@ -16,6 +16,6 @@
 				</canvas>
 		    </section>
 	    <footer>
-		    Click anywhere to hit the jar. Try to see how many times you can hit the jar before it cracks. Reload the page to restart.
+		   robin
 	    </footer>
 	<
