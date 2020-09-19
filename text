@@ -15,8 +15,5 @@
 				<canvas id="robin" data-processing-sources="nam.pde">
 				</canvas>
 		    </section>
-	    <footer>
-		    robin
-	    </footer>
 	</body>
 </html>
